@@ -1,0 +1,16 @@
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\bin\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.exe
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\bin\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.deps.json
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\bin\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.runtimeconfig.json
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\bin\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.runtimeconfig.dev.json
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\bin\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.dll
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\bin\Debug\net5.0\ref\Comparacao_Elemento_HashSet_Equals.dll
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\bin\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.pdb
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\obj\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.csproj.AssemblyReference.cache
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\obj\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\obj\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.AssemblyInfoInputs.cache
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\obj\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.AssemblyInfo.cs
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\obj\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.csproj.CoreCompileInputs.cache
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\obj\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.dll
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\obj\Debug\net5.0\ref\Comparacao_Elemento_HashSet_Equals.dll
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\obj\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.pdb
+D:\wp_VS\EgualsEGetHeshCode\Comparacao_Elemento_HashSet_Equals\obj\Debug\net5.0\Comparacao_Elemento_HashSet_Equals.genruntimeconfig.cache
