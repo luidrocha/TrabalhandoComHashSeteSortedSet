@@ -1,0 +1,16 @@
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\bin\Debug\net5.0\EgualsEGetHeshCode.exe
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\bin\Debug\net5.0\EgualsEGetHeshCode.deps.json
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\bin\Debug\net5.0\EgualsEGetHeshCode.runtimeconfig.json
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\bin\Debug\net5.0\EgualsEGetHeshCode.runtimeconfig.dev.json
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\bin\Debug\net5.0\EgualsEGetHeshCode.dll
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\bin\Debug\net5.0\ref\EgualsEGetHeshCode.dll
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\bin\Debug\net5.0\EgualsEGetHeshCode.pdb
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\obj\Debug\net5.0\EgualsEGetHeshCode.csproj.AssemblyReference.cache
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\obj\Debug\net5.0\EgualsEGetHeshCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\obj\Debug\net5.0\EgualsEGetHeshCode.AssemblyInfoInputs.cache
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\obj\Debug\net5.0\EgualsEGetHeshCode.AssemblyInfo.cs
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\obj\Debug\net5.0\EgualsEGetHeshCode.csproj.CoreCompileInputs.cache
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\obj\Debug\net5.0\EgualsEGetHeshCode.dll
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\obj\Debug\net5.0\ref\EgualsEGetHeshCode.dll
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\obj\Debug\net5.0\EgualsEGetHeshCode.pdb
+D:\wp_VS\EgualsEGetHeshCode\EgualsEGetHeshCode\obj\Debug\net5.0\EgualsEGetHeshCode.genruntimeconfig.cache

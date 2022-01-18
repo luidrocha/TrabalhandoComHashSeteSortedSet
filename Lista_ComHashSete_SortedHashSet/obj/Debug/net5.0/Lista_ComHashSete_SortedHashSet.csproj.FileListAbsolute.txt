@@ -1,0 +1,16 @@
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\obj\Debug\net5.0\Lista_ComHashSete_SortedHashSet.csproj.AssemblyReference.cache
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\obj\Debug\net5.0\Lista_ComHashSete_SortedHashSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\obj\Debug\net5.0\Lista_ComHashSete_SortedHashSet.AssemblyInfoInputs.cache
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\obj\Debug\net5.0\Lista_ComHashSete_SortedHashSet.AssemblyInfo.cs
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\obj\Debug\net5.0\Lista_ComHashSete_SortedHashSet.csproj.CoreCompileInputs.cache
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\bin\Debug\net5.0\Lista_ComHashSete_SortedHashSet.exe
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\bin\Debug\net5.0\Lista_ComHashSete_SortedHashSet.deps.json
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\bin\Debug\net5.0\Lista_ComHashSete_SortedHashSet.runtimeconfig.json
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\bin\Debug\net5.0\Lista_ComHashSete_SortedHashSet.runtimeconfig.dev.json
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\bin\Debug\net5.0\Lista_ComHashSete_SortedHashSet.dll
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\bin\Debug\net5.0\ref\Lista_ComHashSete_SortedHashSet.dll
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\bin\Debug\net5.0\Lista_ComHashSete_SortedHashSet.pdb
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\obj\Debug\net5.0\Lista_ComHashSete_SortedHashSet.dll
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\obj\Debug\net5.0\ref\Lista_ComHashSete_SortedHashSet.dll
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\obj\Debug\net5.0\Lista_ComHashSete_SortedHashSet.pdb
+D:\wp_VS\EgualsEGetHeshCode\Lista_ComHashSete_SortedHashSet\obj\Debug\net5.0\Lista_ComHashSete_SortedHashSet.genruntimeconfig.cache
